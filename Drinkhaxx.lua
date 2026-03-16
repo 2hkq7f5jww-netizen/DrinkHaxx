@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet("https://2Epik4u.github.io/DrinkHaxx/ui.
 
 
 local Gamer = library:CreateSection("Scripts");
-Gamer:Button("Auto Burp", function()
+eeylul200:Button("Auto Burp", function()
 while wait () do
 local Remote = game.ReplicatedStorage.RemoteEvents['BurpEvent']
 
